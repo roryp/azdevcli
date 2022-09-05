@@ -52,6 +52,8 @@ The repository contains the instructions and source code to build a complete sam
 
 * [Workshop Template](https://github.com/Azure-Samples/todo-nodejs-mongo-aca)
 
+![workshop architecture](assets/resources.png "Title")
+
 ### Running Playwright tests
 
 Once the workshop is completed you can complete the included /tests/README.md instructions which contains an included [Playwright](https://playwright.dev/) smoke test that will hit the ToDo app web endpoint, create, and delete an item.
