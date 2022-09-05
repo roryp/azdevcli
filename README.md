@@ -15,7 +15,7 @@ You can also access preview Azure Developer CLI functionality from within Visual
 * azd monitor: Monitor your application’s behavior and performance and validate deployments.
 * azd pipeline config: Create and manage CI/CD (continuous integration and continuous delivery).
 
-The azd focuses on the developer workflow. Apart from provisioning/managing Azure resources, the CLI helps to stitch cloud components, local development configuration and pipeline automation together into a complete solution.
+The azd focuses on the developer workflow. Apart from provisioning/managing Azure resources, the CLI helps stitch cloud components, local development configuration and pipeline automation into a complete solution.
 
 * Select an Azure Developer CLI template.
 * Get the code and deploy the sample by running ```azd up```
@@ -38,7 +38,7 @@ Before you get started, ensure you have the following tools installed on your lo
 powershell -ex AllSigned -c "Invoke-RestMethod 'https://aka.ms/install-azd.ps1' | Invoke-Expression"
 ```
 
-### Linux/MacOS
+### Linux/macOS
 
 ```bash
 curl -fsSL https://aka.ms/install-azd.sh | bash 
@@ -56,7 +56,7 @@ The repository contains the instructions and source code to build a complete sam
 
 ### Running Playwright tests
 
-Once the workshop is completed you can complete the included /tests/README.md instructions which contains an included [Playwright](https://playwright.dev/) smoke test that will hit the ToDo app web endpoint, create, and delete an item.
+Complete the included /tests/README.md instructions containing an included [Playwright](https://playwright.dev/) smoke test that will hit the ToDo app web endpoint, create  and delete an item.
 
 ## References
 
