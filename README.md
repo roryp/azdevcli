@@ -61,7 +61,7 @@ Complete the included /tests/README.md instructions containing an included [Play
 
 ## References
 
-* [Survey](https://microsoft.qualtrics.com/jfe/preview/SV_eCHU9Hs0OHDxcii?Q_CHL=preview&Q_SurveyVersionID=current)
-* [Docs](https://docs.microsoft.com/azure/developer/azure-developer-cli/)
+* [We need your feedback](https://microsoft.qualtrics.com/jfe/preview/SV_eCHU9Hs0OHDxcii?Q_CHL=preview&Q_SurveyVersionID=current)
+* [Azure Developer CLI Docs](https://docs.microsoft.com/azure/developer/azure-developer-cli/)
 * [Templates](https://aka.ms/azure-dev/templates)
 * [Getting started with the VS code Extension](https://docs.microsoft.com/azure/developer/azure-developer-cli/debug?pivots=ide-vs-code&tabs=linuxmac)
