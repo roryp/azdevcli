@@ -63,3 +63,4 @@ Complete the included /tests/README.md instructions containing an included [Play
 * [Docs](https://docs.microsoft.com/azure/developer/azure-developer-cli/)
 * [Templates](https://aka.ms/azure-dev/templates)
 * [Getting started with the VS code Extension](https://docs.microsoft.com/azure/developer/azure-developer-cli/debug?pivots=ide-vs-code&tabs=linuxmac)
+* [Azure Container Apps](https://docs.microsoft.com/azure/container-apps/overview)
