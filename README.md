@@ -7,19 +7,19 @@ The Azure Developer CLI (azd) is a developer-centric command-line tool for cloud
 * help developers understand core Azure development constructs
 * You can use the same developer workflow for any Azure Developer CLI enabled templates.
 
-You can also access preview Azure Developer CLI functionality from within Visual Studio Code. You can try out our [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev) by installing it from the Visual Studio Code Marketplace. From the VS Code extension, you can use all the Azure Developer CLI commands -  a typical developer workflow looks like this:
+You can also access preview Azure Developer CLI functionality from within Visual Studio Code. You can try out our [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev) by installing it from the Visual Studio Code Marketplace. From the VS Code extension, you can use all the Azure Developer CLI commands.
 
-* azd init: Create an application and initialize an environment using a sample template in your preferred language.
-* azd provision: Provision the necessary resources for your application on Azure.
-* azd deploy: Deploy your application to Azure.
-* azd monitor: Monitor your application’s behavior and performance and validate deployments.
-* azd pipeline config: Create and manage CI/CD (continuous integration and continuous delivery).
+## Workflow
 
 The azd focuses on the developer workflow. Apart from provisioning/managing Azure resources, the CLI helps stitch cloud components, local development configuration and pipeline automation into a complete solution.
 
-* Select an Azure Developer CLI template.
-* Get the code and deploy the sample by running ```azd up```
-* Customize the app to meet your needs.
+A typical developer workflow looks like this:
+
+* **init**: Create an application and initialize an environment using a sample template in your preferred language.
+* **provision**: Provision the necessary resources for your application on Azure.
+* **deploy**: Deploy your application to Azure.
+* **monitor**: Monitor your application’s behavior and performance and validate deployments.
+* **pipeline config**: Create and manage CI/CD (continuous integration and continuous delivery).
 
 ## Pre-requisites
 
