@@ -51,7 +51,7 @@ We'll use the ToDo Application with a Node.js API and Azure Cosmos DB API for Mo
 The repository contains the instructions and source code to build a complete sample ToDo application with a web frontend built in React.js and the backend API built using Typescript Express REST API. Both frontend and backend applications are deployed to Azure Container Apps.
 
 * [Workshop Exercise Template](https://github.com/Azure-Samples/todo-nodejs-mongo-aca)
-(While you're provisioning resources - it's a great opportunity to feedback your experiences with the Azure Developer CLI [here](https://microsoft.qualtrics.com/jfe/form/SV_eCHU9Hs0OHDxcii?Q_CHL=nodeone)
+(While you're provisioning resources - it's a great opportunity to feedback your experiences with the Azure Developer CLI [here](https://microsoft.qualtrics.com/jfe/form/SV_eCHU9Hs0OHDxcii?channel=nodeone)
 
 ![workshop architecture](assets/resources.png "Title")
 
@@ -61,7 +61,7 @@ Complete the included /tests/README.md instructions containing an included [Play
 
 ## References
 
-* [We need your feedback](https://microsoft.qualtrics.com/jfe/form/SV_eCHU9Hs0OHDxcii?Q_CHL=nodeone)
+* [We need your feedback](https://microsoft.qualtrics.com/jfe/form/SV_eCHU9Hs0OHDxcii?channel=nodeone)
 * [Azure Developer CLI Docs](https://docs.microsoft.com/azure/developer/azure-developer-cli/)
 * [Templates](https://aka.ms/azure-dev/templates)
 * [Getting started with the VS code Extension](https://docs.microsoft.com/azure/developer/azure-developer-cli/debug?pivots=ide-vs-code&tabs=linuxmac)
