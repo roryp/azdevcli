@@ -7,7 +7,7 @@ The Azure Developer CLI (azd) is a developer-centric command-line tool for cloud
 * help developers understand core Azure development constructs
 * You can use the same developer workflow for any Azure Developer CLI enabled templates.
 
-You can also access preview Azure Developer CLI functionality from within Visual Studio Code. You can try out our [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev) by installing it from the Visual Studio Code Marketplace. From the VS Code extension, you can use all the Azure Developer CLI commands.
+You can also access Azure Developer CLI functionality within Visual Studio Code. You can try out our [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev) by installing it from the Visual Studio Code Marketplace. You can use all the Azure Developer CLI commands from the VS Code extension.
 
 ## Workflow
 
@@ -51,13 +51,13 @@ We'll use the ToDo Application with a Node.js API and Azure Cosmos DB API for Mo
 The repository contains the instructions and source code to build a complete sample ToDo application with a web frontend built in React.js and the backend API built using Typescript Express REST API. Both frontend and backend applications are deployed to Azure Container Apps.
 
 * [Start the Workshop here](https://github.com/Azure-Samples/todo-nodejs-mongo-aca)
-(While you're provisioning resources - it's a great opportunity to feedback your experiences with the Azure Developer CLI [here](https://microsoft.qualtrics.com/jfe/form/SV_eCHU9Hs0OHDxcii?channel=nodeone)
+(While you're provisioning resources - it's an excellent opportunity to feedback your experiences with the Azure Developer CLI [here](https://microsoft.qualtrics.com/jfe/form/SV_eCHU9Hs0OHDxcii?channel=nodeone)
 
 ![workshop architecture](assets/resources.png "Title")
 
-### Running Playwright tests
+### (Optional) Running Playwright tests
 
-Complete the included /tests/README.md instructions containing an included [Playwright](https://playwright.dev/) smoke test that will hit the ToDo app web endpoint, create  and delete an item.
+In the cloned template project, complete the included /tests/README.md instructions containing an included [Playwright](https://playwright.dev/) smoke test that will hit the ToDo app web endpoint, and create/delete an item.
 
 ## References
 
