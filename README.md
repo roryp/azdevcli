@@ -1,6 +1,6 @@
 # Workshop
 
-In this workshop we'll use the Azure Dev Cli to create a ToDo Application with a Node.js API and Azure Cosmos DB API for MongoDB, and Container Apps. 
+In this workshop we'll use the Azure Dev Cli to create a ToDo Application with a Node.js API and Azure Cosmos DB API for MongoDB, and Container Apps.
 Upon completion, you'll get the code in your development environment and will be able to run commands to build, deploy, and monitor the app in Azure.
 
 ## Azure Developer cli
