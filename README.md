@@ -1,4 +1,9 @@
-# Azure Dev CLI
+# Workshop
+
+In this workshop we'll use the Azure Dev Cli to create a ToDo Application with a Node.js API and Azure Cosmos DB API for MongoDB, and Container Apps. 
+Upon completion, you'll get the code in your development environment and will be able to run commands to build, deploy, and monitor the app in Azure.
+
+## Azure Developer cli
 
 The Azure Developer CLI (azd) is a developer-centric command-line tool for cloud applications designed to:
 
@@ -44,11 +49,9 @@ powershell -ex AllSigned -c "Invoke-RestMethod 'https://aka.ms/install-azd.ps1' 
 curl -fsSL https://aka.ms/install-azd.sh | bash 
 ```
 
-## Workshop
+## Start the Workshop
 
-We'll use the ToDo Application with a Node.js API and Azure Cosmos DB API for MongoDB, and Container Apps for this tutorial. Upon completion, you'll get the code in your development environment and will be able to run commands to build, deploy, and monitor the app in Azure.
-
-The repository contains the instructions and source code to build a complete sample ToDo application with a web frontend built in React.js and the backend API built using Typescript Express REST API. Both frontend and backend applications are deployed to Azure Container Apps.
+Below you will find the repository which contains the instructions and source code to build a complete sample ToDo application with a web frontend built in React.js and the backend API built using Typescript Express REST API. Both frontend and backend applications are deployed to Azure Container Apps.
 
 * [Start the Workshop here](https://github.com/Azure-Samples/todo-nodejs-mongo-aca)
 (While you're provisioning resources - it's an excellent opportunity to feedback your experiences with the Azure Developer CLI [here](https://microsoft.qualtrics.com/jfe/form/SV_eCHU9Hs0OHDxcii?channel=nodeone)
